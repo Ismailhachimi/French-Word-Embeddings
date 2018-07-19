@@ -1,7 +1,7 @@
 # French Word Embeddings
 French Word Embeddings from series subtitles.
 
-The current repository includes three version of word embeddings :
+The current repository includes three versions of word embeddings :
 
   1. [Word2Vec](https://code.google.com/archive/p/word2vec/) by Google
   2. [GloVe](https://nlp.stanford.edu/projects/glove/) by Stanford NLP
@@ -9,7 +9,7 @@ The current repository includes three version of word embeddings :
  
 All these models are trained using [Gensim](https://radimrehurek.com/gensim/) software's built-in functionalities.
 
-Currently, the dictionnary supports about 25k words based on subtitles after the preproccessing phase. 
+Currently, the vocabulary is about 25k words based on subtitles after the preproccessing phase. 
 
 The vocabulary is clean and contains simple and meaningful words.
 
